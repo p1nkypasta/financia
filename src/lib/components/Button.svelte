@@ -13,7 +13,8 @@
 
 <style>
   .button {
-    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 30px;
     background-color: #0099ff;
     color: white;
     text-align: center;
